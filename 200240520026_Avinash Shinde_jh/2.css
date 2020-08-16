@@ -1,0 +1,37 @@
+.flexcontainer
+{
+    height: 600px;
+    width: 1500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: white;
+    border-radius: 5px;
+    padding-block: 2px;
+}
+
+.form
+{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+     text-justify: auto;
+
+     text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+    font-style: italic;
+    
+    align-items: center;
+    background: chocolate;
+
+    color: black;
+
+
+}
+.form form
+{
+    margin-top: 50px;
+}
